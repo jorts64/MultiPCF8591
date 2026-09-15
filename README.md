@@ -1,7 +1,7 @@
 # MultiPCF8591
 
 <p align="center">
-  <img src="images/MultiPCF8591.jpg" alt="MultiPCF8591" width="600">
+  <img src="images/basic.jpg" alt="MultiPCF8591" width="600">
 </p>
 
 Librería Arduino para gestionar varios **PCF8591** mediante I²C desde una única clase. Está pensada para ofrecer una API sencilla para proyectos con Arduino, ESP8266 y ESP32, sin depender de librerías externas específicas del PCF8591.
